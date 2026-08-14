@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.35",
-  "minimumAllowedVersion": "1.0.35",
-  "downloadUrl": "https://raw.githubusercontent.com/chadgpt42/scheduling_combine_manifest_update/main/SchedulingManagementDCWCombiner-1.0.35-Setup.exe",
-  "message": "Please install Scheduling Management DCW Combiner 1.0.35 or later."
+  "message": "Please install Scheduling Management DCW Combiner 1.0.36 or later.",
+  "minimumAllowedVersion": "1.0.36",
+  "downloadUrl": "https://raw.githubusercontent.com/chadgpt42/scheduling_combine_manifest_update/main/SchedulingManagementDCWCombiner-1.0.36-Setup.exe",
+  "latestVersion": "1.0.36"
 }
